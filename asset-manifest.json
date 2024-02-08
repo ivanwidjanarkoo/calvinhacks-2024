@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b83169b.chunk.css",
+    "main.js": "/static/js/main.4ca01f89.chunk.js",
+    "main.js.map": "/static/js/main.4ca01f89.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ee1c05a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ee1c05a9.js.map",
+    "static/css/2.0975cee1.chunk.css": "/static/css/2.0975cee1.chunk.css",
+    "static/js/2.334faaab.chunk.js": "/static/js/2.334faaab.chunk.js",
+    "static/js/2.334faaab.chunk.js.map": "/static/js/2.334faaab.chunk.js.map",
+    "static/js/3.baa9e995.chunk.js": "/static/js/3.baa9e995.chunk.js",
+    "static/js/3.baa9e995.chunk.js.map": "/static/js/3.baa9e995.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0975cee1.chunk.css.map": "/static/css/2.0975cee1.chunk.css.map",
+    "static/css/main.1b83169b.chunk.css.map": "/static/css/main.1b83169b.chunk.css.map",
+    "static/js/2.334faaab.chunk.js.LICENSE.txt": "/static/js/2.334faaab.chunk.js.LICENSE.txt",
+    "static/media/SponsorshipDocument2023.0473d156.pdf": "/static/media/SponsorshipDocument2023.0473d156.pdf",
+    "static/media/atomic.d877017f.png": "/static/media/atomic.d877017f.png",
+    "static/media/calvin.4af8969a.jpg": "/static/media/calvin.4af8969a.jpg",
+    "static/media/computer.25ddc0ae.png": "/static/media/computer.25ddc0ae.png",
+    "static/media/parallax_back-01-01.f05d219f.png": "/static/media/parallax_back-01-01.f05d219f.png",
+    "static/media/parallax_background-01.34df6f71.png": "/static/media/parallax_background-01.34df6f71.png",
+    "static/media/parallax_front-01.de60fa68.png": "/static/media/parallax_front-01.de60fa68.png",
+    "static/media/parallax_mid-01.83f0cc99.png": "/static/media/parallax_mid-01.83f0cc99.png",
+    "static/media/spindance.6cc4d2f7.jpg": "/static/media/spindance.6cc4d2f7.jpg",
+    "static/media/tekton.63adf7a1.png": "/static/media/tekton.63adf7a1.png",
+    "static/media/test.838f5755.png": "/static/media/test.838f5755.png",
+    "static/media/twisthink.5478e21f.png": "/static/media/twisthink.5478e21f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee1c05a9.js",
+    "static/css/2.0975cee1.chunk.css",
+    "static/js/2.334faaab.chunk.js",
+    "static/css/main.1b83169b.chunk.css",
+    "static/js/main.4ca01f89.chunk.js",
+  ]
+}
